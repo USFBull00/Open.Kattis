@@ -1,3 +1,4 @@
+#Piece of Cake!, difficulty 1.5
 width, h1, v1 = [int(i) for i in input().split()]
 h1 = int(h1); v1 = int(v1); width = int(width)
 measure1 = []

@@ -1,3 +1,4 @@
+#Number Fun, difficulty 1.6
 questions = int(input())
 q_numbers = 1
 while q_numbers <= questions:

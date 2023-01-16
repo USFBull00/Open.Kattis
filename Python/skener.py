@@ -1,3 +1,4 @@
+#Skener, difficulty 1.6
 R, C, ZR, ZC = input().split()
 R = int(R); C = int(C); ZR = int(ZR); ZC = int(ZC)
 for i in range(R):

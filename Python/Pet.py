@@ -1,3 +1,4 @@
+#Pet, difficulty 1.4
 highest_score = 0
 for i in range(1,6):
     a, b, c, d = input().split()

@@ -1,3 +1,4 @@
+#Quadrant Selection, difficulty 1.3
 number1 = int(input())
 for i in range(1):
     number2 = int(input())

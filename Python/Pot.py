@@ -1,3 +1,4 @@
+#Pot, difficulty 1.4
 total = 0
 N = int(input())
 for i in range(N):

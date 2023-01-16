@@ -1,3 +1,4 @@
+#Reverse Rot, difficulty 1.7
 key = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ_.'
 x = 0
 while x == 0:

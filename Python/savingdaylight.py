@@ -1,3 +1,4 @@
+#Saving Daylight, difficulty 2.0
 import sys
 
 for line in sys.stdin:

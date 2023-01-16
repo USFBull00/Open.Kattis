@@ -1,3 +1,4 @@
+#Spelling Bee, difficulty 2.1
 test_case = input()
 number_of_words = int(input())
 
