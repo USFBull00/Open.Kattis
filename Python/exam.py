@@ -1,3 +1,4 @@
+#Exam, difficulty 1.8
 matching = 0
 friends_score = int(input())
 my_answer = input()

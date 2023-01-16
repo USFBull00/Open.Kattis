@@ -1,3 +1,4 @@
+#Count the vowels, difficulty 1.4
 string = input()
 vowels = ['a', 'e', 'i', 'o', 'u', 'A', 'E', 'I', 'O', 'U']
 

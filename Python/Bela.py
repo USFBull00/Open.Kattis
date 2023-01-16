@@ -1,3 +1,5 @@
+#Bela, difficulty 1.4
+
 #hand = input()[1]
 #for i in input()
  #   if i[1] == hand then if i[0] == A then total = total +11

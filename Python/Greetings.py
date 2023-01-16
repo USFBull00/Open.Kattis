@@ -1,3 +1,4 @@
+#Greetings!, difficulty 1.3
 greeting = input()
 length = len(greeting)-2
 

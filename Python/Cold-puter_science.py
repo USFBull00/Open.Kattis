@@ -1,3 +1,5 @@
+#cold-puter science, difficulty 1.3
+
 total = int(input())
 count = 0
 for i in input().split():

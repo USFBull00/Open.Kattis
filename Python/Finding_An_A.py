@@ -1,3 +1,4 @@
+#Finding An A, difficulty 1.3
 string = input()
 top = len(string)
 #print(top)

@@ -1,3 +1,4 @@
+#Electrical Outlets, difficulty 1.3
 x = int(input())
 
 for i in range(x):

@@ -1,3 +1,4 @@
+#Double password, difficulty 1.5
 word1 = input()
 word2 = input()
 

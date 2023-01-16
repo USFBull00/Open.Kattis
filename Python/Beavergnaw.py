@@ -1,3 +1,4 @@
+#Beavergnaw, difficulty 1.7
 import math
 while True:
     D, V = input().split()

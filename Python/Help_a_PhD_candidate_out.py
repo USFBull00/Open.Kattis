@@ -1,3 +1,5 @@
+#Help a PhD candidate out!, difficulty 1.7
+
 total = int(input())
 for i in range(total):
     y = input()

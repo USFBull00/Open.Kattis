@@ -1,3 +1,5 @@
+#Autori, difficulty 1.3
+
 #name = input(' ')
 #initials=name[0]
 #for t

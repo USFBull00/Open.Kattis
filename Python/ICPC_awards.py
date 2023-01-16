@@ -1,3 +1,4 @@
+#ICPC awards, difficulty 1.5
 total = int(input())
 ulist = []
 winners = 1

@@ -1,3 +1,4 @@
+#FYI, difficulty 1.3
 number = input()
 #print(number[:3])
 

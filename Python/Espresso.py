@@ -1,3 +1,4 @@
+#Espresso!, difficulty 2.1
 n, s = input().split()
 students = int(n)
 size = int(s)
