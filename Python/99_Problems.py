@@ -19,4 +19,4 @@ lower = int(lower_str)
 if abs(price - upper)>abs(price - lower):
     print(lower)
 if abs(price - lower)>=abs(price - upper):
-   print(upper)
+    print(upper)
